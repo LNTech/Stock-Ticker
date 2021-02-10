@@ -1,0 +1,4 @@
+TSLA
+PYPL
+ETSY
+CRSR
