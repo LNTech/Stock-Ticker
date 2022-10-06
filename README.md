@@ -1,5 +1,7 @@
 # Stock Ticker
-A Python3 Stock Ticker that I created in order to refresh my knowledge on Object Orientated Programming. For personal use only, as it does contain some bugs.
+A Python3 Stock Ticker that I created in order to refresh my knowledge on Object Orientated Programming. For personal use only.
+
+Definitely contains bugs, needs refactoring when I get the time.
 
 ![Screenshot](https://i.imgur.com/pHQoZIK.png)
 
