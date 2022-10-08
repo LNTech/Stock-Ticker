@@ -9,3 +9,6 @@ Definitely contains bugs, needs refactoring when I get the time.
 1. Install requirements via pip install -r requirements.txt
 2. Add desired company ticker/symbol to stocks.txt i.e. TSLA, PYPL..
 3. Run script with python stocks.py
+
+# Details
+* Scrapes Yahoo Finance API for current stock details + market opening/closing time
